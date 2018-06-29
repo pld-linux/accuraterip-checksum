@@ -1,11 +1,11 @@
 Summary:	A C99 commandline program to compute the AccurateRip checksum
 Name:		accuraterip-checksum
-Version:	1.4
+Version:	1.5
 Release:	1
 License:	GPL v3
 Group:		Applications
 Source0:	https://github.com/leo-bogert/accuraterip-checksum/archive/version%{version}.tar.gz
-# Source0-md5:	a5a1ac13ed4f16266f972918e21bd095
+# Source0-md5:	e189ef0a849923facb46ef82d22c1f4d
 URL:		https://github.com/leo-bogert/accuraterip-checksum
 BuildRequires:	libsndfile-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
