@@ -1,7 +1,7 @@
 Summary:	A C99 commandline program to compute the AccurateRip checksum
 Name:		accuraterip-checksum
 Version:	1.5
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		Applications
 Source0:	https://github.com/leo-bogert/accuraterip-checksum/archive/version%{version}.tar.gz
